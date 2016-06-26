@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tv_mode" />
+    <item type="id" name="process_count" />
+    <item type="id" name="process_memory" />
+    <item type="id" name="btn_clear" />
+</resources>

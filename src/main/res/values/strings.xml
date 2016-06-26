@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Safe</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_call_safe">CallSafeActivity</string>
+    <string name="title_activity_task_manager">TaskManagerActivity</string>
+    <string name="title_activity_task_manager_setting">TaskManagerSettingActivity</string>
+    <string name="title_activity_antivirus">AntivirusActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_app_lock">AppLockActivity</string>
+    <string name="title_activity_enter_pwd">EnterPwdActivity</string>
+    <string name="title_activity_clean_cache">CleanCacheActivity</string>
+    <string name="title_activity_traffic_manager">TrafficManagerActivity</string>
+
+</resources>
